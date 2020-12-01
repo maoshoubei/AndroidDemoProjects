@@ -1,0 +1,46 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.zzht.media_utils">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true">
+
+        <activity
+            android:name=".AudioRecorderDemoActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".MediaRecorderDemoActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".audiorecorder.AudioRecordActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:theme="@style/TipDialog"
+            android:windowSoftInputMode="stateHidden"/>
+
+        <activity android:name=".mediarecorder.PlayVideoActivity"/>
+        <activity android:name="com.zhaoss.weixinrecorded.activity.RecordedActivity"
+            android:windowSoftInputMode="adjustResize|adjustPan"/>
+        <activity android:name="com.zhaoss.weixinrecorded.activity.CutSizeActivity"/>
+        <activity android:name="com.zhaoss.weixinrecorded.activity.CutTimeActivity"/>
+        <activity android:name="com.zhaoss.weixinrecorded.activity.EditVideoActivity"/>
+        <activity android:name=".audio_recorder.AudioRecorderActivity"/>
+        <activity android:name=".audio_recorder.AudioRecordDemoActivity"/>
+        <activity android:name=".video_recorder.VideoRecordActivity"/>
+        <activity android:name=".video_recorder.VideoRecorderDemoActivity"/>
+
+        <service android:name=".audiorecorder.RecordingService" />
+    </application>
+</manifest>

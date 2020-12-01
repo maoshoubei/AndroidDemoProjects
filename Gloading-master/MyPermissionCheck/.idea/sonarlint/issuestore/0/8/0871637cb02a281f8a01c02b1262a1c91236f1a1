@@ -1,0 +1,33 @@
+
+G
+java:S10683",Remove this unused "mContext" private field.(»úÅ¾øÿÿÿÿ
+9
+java:S1659"#Declare "xMove" on a separate line.(ï†“ù
+O
+java:S10688"2Remove this unused "mRightListener" private field.(Ã¾‰Ó8®ÿÌ…·.
+X	java:S125}"<This block of commented-out lines of code should be removed.(µëÜ8®ÿÌ…·.
+L
+java:S1068%"/Remove this unused "mItemDelete" private field.(ì°Â 8®ÿÌ…·.
+7	java:S131V""Add a default case to this switch.(º¤ùØ
+z
+java:S14508"]Remove the "mRightListener" field and declare it as a local variable in the relevant methods.(Ã¾‰Ó8®ÿÌ…·.
+C
+java:S1068"-Remove this unused "maxLength" private field.(áÛèî
+9
+java:S1659"#Declare "yMove" on a separate line.(ï†“ù
+F
+java:S1068$"0Remove this unused "mItemContent" private field.(¸¶©
+j
+java:S1450"TRemove the "xMove" field and declare it as a local variable in the relevant methods.(ï†“ù
+J
+java:S1068#"-Remove this unused "mLlHidden" private field.(Êâ´8é’·†·.
+9
+java:S1659"#Declare "yDown" on a separate line.(ï†“ù
+j
+java:S1450"TRemove the "yMove" field and declare it as a local variable in the relevant methods.(ï†“ù
+h
+java:S3776S"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ğ±
+>
+java:S1659"(Declare "mTouchSlop" on a separate line.(áÛèî
+H
+java:S1659""-Declare "mLastItemLayout" on a separate line.(®Şìùÿÿÿÿ

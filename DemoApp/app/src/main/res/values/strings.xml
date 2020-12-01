@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="slidstring">请按住滑块，拖动到最右边</string>
+
+    <string name="aar_save">Save</string>
+    <string name="aar_paused">Paused</string>
+    <string name="aar_recording">Recording</string>
+    <string name="aar_playing">Playing</string>
+</resources>

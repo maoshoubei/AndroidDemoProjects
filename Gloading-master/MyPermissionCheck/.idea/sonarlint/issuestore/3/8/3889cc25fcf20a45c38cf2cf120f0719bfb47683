@@ -1,0 +1,6 @@
+
+h	java:S1162"SRename this field "tv_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍŠ ë
+n	java:S1164"TRename this field "ll_hidden" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙŒé›ûÿÿÿÿ
+l	java:S1164"RRename this field "ll_item" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙŒé›ûÿÿÿÿ
+B
+java:S16594"'Declare "ll_hidden" on a separate line.(ÙŒé›ûÿÿÿÿ

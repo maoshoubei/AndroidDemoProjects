@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:voiceView="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="230dp"
+    android:layout_gravity="bottom"
+    android:background="@drawable/shape_popup_window">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|bottom"
+        android:background="@color/white"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="visible">
+
+        <Chronometer
+            android:id="@+id/chronometer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:fontFamily="sans-serif-light"
+            android:gravity="center"
+            android:paddingTop="4dp"
+            android:paddingBottom="4dp"
+            android:textColor="@color/primary_text"
+            android:textSize="16sp" />
+
+        <com.zzht.media_utils.audiorecorder.VoiceLineView
+            android:id="@+id/voiceLineView"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_gravity="bottom"
+            android:background="@color/white"
+            voiceView:fineness="three"
+            voiceView:maxVolume="100"
+            voiceView:middleLine="@android:color/holo_red_light"
+            voiceView:middleLineHeight="1dp"
+            voiceView:rectSpace="2dp"
+            voiceView:rectWidth="5dp"
+            voiceView:sensibility="four"
+            voiceView:viewMode="line"
+            voiceView:voiceLine="@android:color/holo_red_light" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|bottom"
+        android:background="@color/white"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="visible">
+
+        <com.melnykov.fab.FloatingActionButton
+            android:id="@+id/btnRecord"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="20dp"
+            android:src="@drawable/ic_mic_white_36dp"
+            app:fab_colorNormal="@color/primary" />
+    </LinearLayout>
+
+</FrameLayout>

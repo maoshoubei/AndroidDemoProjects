@@ -1,0 +1,52 @@
+
+€
+java:S1157İ"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(¶è¼ 8Ú¨Áü¶.
+{
+java:S1192¹"XUse already-defined constant 'INVALID_ANDROID_ID' instead of duplicating its value here.( õş…üÿÿÿÿ8ëúİû¶.
+\
+java:S1118!":Add a private constructor to hide the implicit public one.(¸µÇ¬øÿÿÿÿ8×•Êü¶.
+u
+java:S3252"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(öËíå8›—Ÿú¶.
+U
+java:S1135İ"2Complete the task associated to this TODO comment.(­¼ğÙúÿÿÿÿ8ëúİû¶.
+M
+java:S1144Ì"/Remove this unused private "prefixxStr" method.(óÔ¶†8Ûì½ı¶.
+^	java:S125ƒ"<This block of commented-out lines of code should be removed.(Óı´Çøÿÿÿÿ8Äãòû¶.
+C
+java:S11680"&Return an empty array instead of null.(¥¹ï8›—Ÿú¶.
+Y	java:S125±"<This block of commented-out lines of code should be removed.(ËèÍ¬8ä–Äú¶.
+s	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾‡õïüÿÿÿÿ8›—Ÿú¶.
+†
+java:S1157ç"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Şşªİüÿÿÿÿ8Ú¨Áü¶.
+t
+java:S3252{"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(ÅÈ©†8›—Ÿú¶.
+s	java:S117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾‡õïüÿÿÿÿ8ëúİû¶.
+€
+java:S1157‰"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(À¾w8Ú¨Áü¶.
+u
+java:S3252‘"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(öËíå8›—Ÿú¶.
+{	java:S115*"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ØÁ„íÿÿÿÿÿ8›—Ÿú¶.
+F
+java:S1148†"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8›—Ÿú¶.
+
+java:S1157…"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Şâı«8Ú¨Áü¶.
+C
+java:S1168;"&Return an empty array instead of null.(¥¹ï8›—Ÿú¶.
+;
+java:S2119˜"Save and re-use this "Random".(¼İÅf8Äãòû¶.
+€
+java:S1157ù"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(¾û8Ú¨Áü¶.
+
+java:S1845ñ"rRename method "getAndroidId" to prevent any misunderstanding/clash with method "getAndroidID" defined on line 103.(ÍŒ[8Äãòû¶.
+
+java:S1157ğ"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(ëÙ‚ş8Ú¨Áü¶.
+}
+java:S1149ü"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ãÆ†û8Äãòû¶.
+
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(õÕÚ8Ú¨Áü¶.
+€
+java:S1157İ"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(¶è¼ 8Ú¨Áü¶.
+
+java:S1157ı"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(‰éô¾8Ú¨Áü¶.
+F
+java:S1148¾"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ëúİû¶.

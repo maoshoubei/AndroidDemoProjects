@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="color_net_not_accessable">#ce1313</color>
+    <color name="blue_pressed">#0b5dac</color>
+
+    <color name="primary">#F44336</color>
+    <color name="primary_dark">#D32F2F</color>
+    <color name="colorPrimary">#00bcd3</color>
+    <color name="colorPrimaryDark">#0097a7</color>
+    <color name="primary_light">#FFCDD2</color>
+    <color name="primary_text">#212121</color>
+    <color name="colorAccent">#FFC107</color>
+    <color name="secondary_text">#727272</color>
+    <color name="divider">#FFFFFF</color>
+    <color name="text">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="tab_strip">#B42929</color>
+
+    <color name="iTextColor3">#848484</color>
+    <color name="iTextColor5">#7f333336</color>
+    <color name="iTextColor6">#f0b017</color>
+
+    <color name="gray">#ddd</color>
+    <color name="blue">#1966FF</color>
+
+    <color name="color1">#fff</color>
+    <color name="color2">#f00</color>
+    <color name="color3">#FECD52</color>
+    <color name="color4">#145CB9</color>
+    <color name="color5">#21AE58</color>
+    <color name="video_gray">#aadddddd</color>
+    <color name="video_hint_color">#33000000</color>
+    <color name="black">#000000</color>
+    <color name="black2">#262F40</color>
+
+    <color name="recorder_bg">#F4511E</color>
+</resources>

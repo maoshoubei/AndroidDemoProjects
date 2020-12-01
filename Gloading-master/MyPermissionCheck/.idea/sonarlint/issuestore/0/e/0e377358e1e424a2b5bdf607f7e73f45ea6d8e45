@@ -1,0 +1,24 @@
+
+Z
+java:S1854•">Remove this useless assignment to local variable "childCount".(¹ œËøÿÿÿÿ
+\
+java:S1854“"@Remove this useless assignment to local variable "itemPosition".(½§úÛüÿÿÿÿ
+W	java:S125–"<This block of commented-out lines of code should be removed.(½ÊÃÙúÿÿÿÿ
+=
+java:S1481’"&Remove this unused "b" local variable.(ô©”
+E
+java:S1481”".Remove this unused "spanCount" local variable.(¦´ÄÇ
+L
+java:S1854’"5Remove this useless assignment to local variable "b".(ô©”
+M
+java:S1481“"1Remove this unused "itemPosition" local variable.(½§úÛüÿÿÿÿ
+K
+java:S1481•"/Remove this unused "childCount" local variable.(¹ œËøÿÿÿÿ
+T
+java:S1854”"=Remove this useless assignment to local variable "spanCount".(¦´ÄÇ
+W	java:S125¤"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+K
+java:S1144\"0Remove this unused private "isLastColum" method.(™ş¾ÿøÿÿÿÿ
+R	java:S125‘"<This block of commented-out lines of code should be removed.(˜ƒ”ù
+D
+java:S1144t".Remove this unused private "isLastRaw" method.(Ç ¿º
